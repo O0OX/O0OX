@@ -2,13 +2,13 @@
   <picture>
     <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&text=SulimanKSA&fontColor=ffffff&fontSize=40&fontAlign=50&animation=fadeIn&section=header" />
+            srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&text=O0OX&fontColor=ffffff&fontSize=40&fontAlign=50&animation=fadeIn&section=header" />
     <!-- Light mode -->
     <source media="(prefers-color-scheme: light)"
-            srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f8fafc,100:e2e8f0&text=SulimanKSA&fontColor=111827&fontSize=40&fontAlign=50&animation=fadeIn&section=header" />
+            srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f8fafc,100:e2e8f0&text=O0OX&fontColor=111827&fontSize=40&fontAlign=50&animation=fadeIn&section=header" />
     <!-- Fallback -->
     <img alt="SulimanKSA Banner"
-         src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=SulimanKSA&fontColor=ffffff&fontSize=40&fontAlign=50&animation=fadeIn&section=header" />
+         src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=O0OX&fontColor=ffffff&fontSize=40&fontAlign=50&animation=fadeIn&section=header" />
   </picture>
 </p>
 
@@ -57,8 +57,8 @@ Currently, I’m working on **OPINION.AI**, an AI-powered platform that analyzes
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulimanKSA&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanKSA&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=O0OX&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O0OX&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
