@@ -52,20 +52,3 @@ Currently, I’m working on **OPINION.AI**, an AI-powered platform that analyzes
 | Databases              | MySQL · SQLite                                 |
 | AI / NLP               | Text Analysis · Sentiment Classification       |
 | Tools                  | VS Code · Git · SQLite · XAMPP                 |
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O0OX&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O0OX&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 👁️ Profile Views  
-<p align="center">
-  <a href="https://u8views.com/github/SulimanKSA">
-    <img src="https://u8views.com/api/v1/github/profiles/126826976/views/day-week-month-total-count.svg" alt="Suliman profile views"/>
-  </a>
-</p>
